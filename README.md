@@ -27,4 +27,4 @@ If you have any questions please feel free to contact me by:
 - Github: [ValeriiKryshtal](https://github.com/ValeriiKryshtal)
 - Email: valeriikryshtal@yahoo.com;
 ## Runing app Screenshot
-![screenshot](https://github.com/ValeriiKryshtal/professional-README-Generator/blob/main/assets/ReadmeGenerator.jpg) 
+![screenshot](https://github.com/ValeriiKryshtal/team-profile-generator/blob/main/assets/Team-profile-generator-screen.jpg) 
