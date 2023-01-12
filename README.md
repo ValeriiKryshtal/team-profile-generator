@@ -1,6 +1,6 @@
 # team-profile-generator
 ## Link to the video:
-[Sample of running app](https://youtu.be/MwJy_TpD_nQ)
+[Sample of running app](https://youtu.be/NiYgyodDGO4)
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 ## Table of Contents 
@@ -21,7 +21,7 @@ MIT
 ## Contribution:
 none
 ## Testing:
-To run test type in "npm run test'
+To run test type in "npm test'
 ## Additional Info:
 If you have any questions please feel free to contact me by:
 - Github: [ValeriiKryshtal](https://github.com/ValeriiKryshtal)
